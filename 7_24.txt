@@ -1,0 +1,18 @@
+7/24 
+
+git hub에 올리기
+
+
+git add . 
+
+git commit -m " ex. 오늘은 뭐했는지 쓰기!(add, fix)"
+
+git push -u origin feature/login
+
+
+next.js 프로젝트 생성
+-npx create-next-app 프로젝트 이름 
+
+yarn dev - 개발환경 서버 켜기
+
+- 스니펫 찾아보기! 숙제 좋은걸로
